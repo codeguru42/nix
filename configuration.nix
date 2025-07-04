@@ -86,6 +86,7 @@
     packages = with pkgs; [
       vim
       git
+      ghostty
     ];
   };
 
