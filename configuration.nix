@@ -87,6 +87,7 @@
       vim
       git
       ghostty
+      zoxide
     ];
   };
 
