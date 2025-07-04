@@ -84,7 +84,8 @@
     description = "l";
     extraGroups = [ "networkmanager" "wheel" ];
     packages = with pkgs; [
-    #  thunderbird
+      vim
+      git
     ];
   };
 
